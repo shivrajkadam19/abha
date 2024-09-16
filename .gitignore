@@ -1,1 +1,85 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
 node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# MacOS specific files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional configuration files
+config/
+*.json
+
+# Build directories
+# build/
+# dist/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional ESLint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional Jest cache
+.jest/
+
+# Optional Vercel/Now configuration
+.now/
+
+# Optional Yarn/PNPM/other package manager lock files
+yarn.lock
+.pnp.js
+.pnp.cjs
+.pnp.mjs
+
+# Optional logs and logs directory
+logs/
+*.log
+npm-debug.log*
+
+# Optional temporary files
+temp/
+tmp/
+
+# Optional test directories
+test/
+tests/
+__tests__/
+__mocks__/
+coverage/
+.nyc_output/
+
+# Optional build directories
+# dist/
+# build/
